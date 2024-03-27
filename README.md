@@ -15,7 +15,7 @@
 [![Stars][repo-stars]][github]
 
 <h3>一個包含了各式各樣的模組翻譯的資源包～</h3>
-<h3>目前已收錄 <code><!-- MODS_NUMBER_CI_START -->478<!-- MODS_NUMBER_CI_END --></code> 款模組</h3>
+<h3>目前已收錄 <code><!-- MODS_NUMBER_CI_START -->484<!-- MODS_NUMBER_CI_END --></code> 款模組</h3>
 
 </div>
 
