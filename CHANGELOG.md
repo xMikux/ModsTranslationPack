@@ -1,5 +1,29 @@
 # Changelog
 
+## [1.7.10](https://github.com/xMikux/ModsTranslationPack/compare/v1.7.9...v1.7.10) (2024-03-27)
+
+
+### 🧹 整理專案
+
+* **deps:** update geekyeggo/delete-artifact action to v5 ([#592](https://github.com/xMikux/ModsTranslationPack/issues/592)) ([3e9d929](https://github.com/xMikux/ModsTranslationPack/commit/3e9d929f26a7b313e5853042f13b15f66d4d9414))
+* **deps:** update taskmedia/action-conventional-commits action to v1.1.14 ([#587](https://github.com/xMikux/ModsTranslationPack/issues/587)) ([714bd19](https://github.com/xMikux/ModsTranslationPack/commit/714bd19cd646b7b0c858e641f9d1f99883a249bc))
+* **deps:** update taskmedia/action-conventional-commits action to v1.1.15 ([#598](https://github.com/xMikux/ModsTranslationPack/issues/598)) ([2581d94](https://github.com/xMikux/ModsTranslationPack/commit/2581d949c90e7124dace33819c610833439a096f))
+
+
+### ⚡ 新增模組翻譯
+
+* **Advancement Frames:** 新增進度展示框 v2.2.3 ([#590](https://github.com/xMikux/ModsTranslationPack/issues/590)) ([dea3c6c](https://github.com/xMikux/ModsTranslationPack/commit/dea3c6c2f3bf5d17ded1106a0ea693308efae3c0))
+* **Amendments:** 新增 Amendments v1.1.10 ([#589](https://github.com/xMikux/ModsTranslationPack/issues/589)) ([a3e62db](https://github.com/xMikux/ModsTranslationPack/commit/a3e62db09002cd940d85596559b3df76c880a6eb))
+* **Camp Chair:** 新增露營椅 v1.0.3 ([#591](https://github.com/xMikux/ModsTranslationPack/issues/591)) ([d503c88](https://github.com/xMikux/ModsTranslationPack/commit/d503c88b383dc56c2693682191a9f419354511a1))
+* **Convenient Decor:** 新增精簡裝飾 v0.4.1 ([#597](https://github.com/xMikux/ModsTranslationPack/issues/597)) ([179418b](https://github.com/xMikux/ModsTranslationPack/commit/179418bfb13f91c511b231b32af80b224c3e72d5))
+* **Mob Scarecrow:** 新增生物稻草人 v2.3.0 ([#594](https://github.com/xMikux/ModsTranslationPack/issues/594)) ([f77eb17](https://github.com/xMikux/ModsTranslationPack/commit/f77eb1780e4db0caeb161563f52d4f30169f1bbf))
+* **Quark Delight:** 新增 Quark 樂事 v1.0.0 ([#596](https://github.com/xMikux/ModsTranslationPack/issues/596)) ([516613a](https://github.com/xMikux/ModsTranslationPack/commit/516613a1c45f68ae9581ede9c16fdafcfbfc7191))
+
+
+### 🐌 更新模組翻譯
+
+* **Quality Crops:** 更新翻譯至 v1.3.3 ([#595](https://github.com/xMikux/ModsTranslationPack/issues/595)) ([c3b8352](https://github.com/xMikux/ModsTranslationPack/commit/c3b83524bdc225b778ecb4d224097e45bb874a0f))
+
 ## [1.7.9](https://github.com/xMikux/ModsTranslationPack/compare/v1.7.8...v1.7.9) (2024-02-17)
 
 
