@@ -1,5 +1,65 @@
 # Changelog
 
+## [1.7.12](https://github.com/xMikux/ModsTranslationPack/compare/v1.7.11...v1.7.12) (2024-06-30)
+
+
+### 🧹 整理專案
+
+* **deps:** update dawidd6/action-download-artifact action to v5 ([#651](https://github.com/xMikux/ModsTranslationPack/issues/651)) ([f5d5704](https://github.com/xMikux/ModsTranslationPack/commit/f5d5704351113ff30db7e300b70473e43918f148))
+* **deps:** update dawidd6/action-download-artifact action to v6 ([#654](https://github.com/xMikux/ModsTranslationPack/issues/654)) ([df1302c](https://github.com/xMikux/ModsTranslationPack/commit/df1302c8dc7d200594fb9c8c56d155b362e9f86a))
+* 新增 1.21 支援 ([#660](https://github.com/xMikux/ModsTranslationPack/issues/660)) ([eacd069](https://github.com/xMikux/ModsTranslationPack/commit/eacd06902a9aa08d916d91f0d0092c93698c5936))
+
+
+### ☁️ 工作流程
+
+* **ReleasePlease:** 將此 Action 從舊組織名轉移至新組織 ([#648](https://github.com/xMikux/ModsTranslationPack/issues/648)) ([6a1b164](https://github.com/xMikux/ModsTranslationPack/commit/6a1b164ff851ec73ec1995876274993cd522385b))
+
+
+### 📑 文件更新
+
+* **Readme:** 更新貢獻者清單 ([#655](https://github.com/xMikux/ModsTranslationPack/issues/655)) ([d54b6e1](https://github.com/xMikux/ModsTranslationPack/commit/d54b6e159b333774ff154d82c7e2228376328d8d))
+
+
+### ⚡ 新增模組翻譯
+
+* **Ender IO:** 新增 Ender IO v6.1.3 ([#666](https://github.com/xMikux/ModsTranslationPack/issues/666)) ([572a819](https://github.com/xMikux/ModsTranslationPack/commit/572a819f3d669b39d233dc41ab964f6d4116ed40))
+* **EnderChests:** 新增終界箱 v1.2 ([#678](https://github.com/xMikux/ModsTranslationPack/issues/678)) ([9bec21f](https://github.com/xMikux/ModsTranslationPack/commit/9bec21f69eab5cc08c9426d02d680d76373f9c01))
+* **EnderTanks:** 新增終界儲罐 v1.3 ([#679](https://github.com/xMikux/ModsTranslationPack/issues/679)) ([cd4b7c9](https://github.com/xMikux/ModsTranslationPack/commit/cd4b7c94c033ee9733af71f88dad18b546f937fe))
+* **Ex Deorum:** 新增源自虛無：神賜 v1.37 ([#653](https://github.com/xMikux/ModsTranslationPack/issues/653)) ([2ae6db5](https://github.com/xMikux/ModsTranslationPack/commit/2ae6db542e9bb2961b84b489b229b2f2b1d0263a))
+* **ForceCraft:** 新增力量工藝 v4.1.7 ([#657](https://github.com/xMikux/ModsTranslationPack/issues/657)) ([3f9e3e8](https://github.com/xMikux/ModsTranslationPack/commit/3f9e3e8edc85012ae0b54c32fe4cb0f6bd675b91))
+* **Generator Galore:** 新增豐富發電機 v1.2.4 ([#658](https://github.com/xMikux/ModsTranslationPack/issues/658)) ([dae2ff4](https://github.com/xMikux/ModsTranslationPack/commit/dae2ff43db77fdcbbd72b65ae7a3cd260884f537))
+* **Jumbo Furnace:** 新增巨無霸熔爐 v4.0.0.5 ([#673](https://github.com/xMikux/ModsTranslationPack/issues/673)) ([da53824](https://github.com/xMikux/ModsTranslationPack/commit/da53824717eb744293478b8aee985bc0998c95cc))
+* **Little Logistics:** 新增 可愛小火車 v1.4.0 ([#647](https://github.com/xMikux/ModsTranslationPack/issues/647)) ([1ab7231](https://github.com/xMikux/ModsTranslationPack/commit/1ab7231518bbe72976c7ebd397621ee20fd3348f))
+* **Medieval Seedbags:** 新增中世紀種子袋 v1.0.1 ([#683](https://github.com/xMikux/ModsTranslationPack/issues/683)) ([1fbad6f](https://github.com/xMikux/ModsTranslationPack/commit/1fbad6f957258d17f61f4bff58e8049f607cf611))
+* **Plenty Plates:** 新增豐富壓力板 v8.0.0 ([#680](https://github.com/xMikux/ModsTranslationPack/issues/680)) ([b9e138f](https://github.com/xMikux/ModsTranslationPack/commit/b9e138f786bc0e6b91ef98595f40e1d0279e8c93))
+* **redstonepen:** 紅石筆 v1.2.32 ([#652](https://github.com/xMikux/ModsTranslationPack/issues/652)) ([a0f3272](https://github.com/xMikux/ModsTranslationPack/commit/a0f3272d9418d630955830130b75692dda0d1bbe))
+* **ShetiPhianCore:** 新增 ShetiPhianCore v1.3 ([#677](https://github.com/xMikux/ModsTranslationPack/issues/677)) ([3eeeb1a](https://github.com/xMikux/ModsTranslationPack/commit/3eeeb1ab79862d979985a2e2fcd39e535a685194))
+* **Thermal Endergy:** 新增熱力系列：終末升級 v1.0.0 ([#674](https://github.com/xMikux/ModsTranslationPack/issues/674)) ([c9dd2a0](https://github.com/xMikux/ModsTranslationPack/commit/c9dd2a0e0a67d145a676b6955fd3d1fc00f71e1a))
+* **Thermal Extra:** 新增 Thermal Extra v3.0.9 ([#659](https://github.com/xMikux/ModsTranslationPack/issues/659)) ([d4d84e5](https://github.com/xMikux/ModsTranslationPack/commit/d4d84e508db180ca93e4c5850217bfea068b555b))
+
+
+### 🐌 更新模組翻譯
+
+* **All the Ores:** 更新至 v2.2.4 ([#667](https://github.com/xMikux/ModsTranslationPack/issues/667)) ([5f6e18d](https://github.com/xMikux/ModsTranslationPack/commit/5f6e18dcc6301ba924520b2ba82ee89bc106a1ee))
+* **All The Tweaks:** 更新至 v2.3.2 ([#670](https://github.com/xMikux/ModsTranslationPack/issues/670)) ([c94fe1b](https://github.com/xMikux/ModsTranslationPack/commit/c94fe1bee61d07aa0b7c61c04ddeeea7a9c049e6))
+* **AllTheCompressed:** 更新至 v3.0.2 ([#669](https://github.com/xMikux/ModsTranslationPack/issues/669)) ([7980860](https://github.com/xMikux/ModsTranslationPack/commit/79808606452a7845c00f5476829752c24cbca880))
+* **Allthemodium:** 更新至 v2.5.1 ([#668](https://github.com/xMikux/ModsTranslationPack/issues/668)) ([5ffd040](https://github.com/xMikux/ModsTranslationPack/commit/5ffd04004815508d1688582cf026d48f3c70ef3f))
+* **Angel Ring:** 更新至 v2.2.2 ([#672](https://github.com/xMikux/ModsTranslationPack/issues/672)) ([9a2430e](https://github.com/xMikux/ModsTranslationPack/commit/9a2430e79cae73e5d93a51953c3a5cd715d9655a))
+* **Draconic Evolution:** 更新至 v3.1.2.575 ([#664](https://github.com/xMikux/ModsTranslationPack/issues/664)) ([edc981b](https://github.com/xMikux/ModsTranslationPack/commit/edc981bbf3f9b56ab65ad4aa7c3f005cf7b269d8))
+* **Ex Machinis: Divitiae Deorum:** 更新至 v3.0.3 ([#671](https://github.com/xMikux/ModsTranslationPack/issues/671)) ([b9d8e31](https://github.com/xMikux/ModsTranslationPack/commit/b9d8e310094ce5571a478d8e0bd9103b8df57a1f))
+* **Functional Storage:** 更新至 v1.2.11 ([#675](https://github.com/xMikux/ModsTranslationPack/issues/675)) ([f47b613](https://github.com/xMikux/ModsTranslationPack/commit/f47b61376b507dc87131b7086f1a01d99c349c9b))
+* **Gateways to Eternity:** 更新至 v4.2.5 ([#684](https://github.com/xMikux/ModsTranslationPack/issues/684)) ([cdf23a3](https://github.com/xMikux/ModsTranslationPack/commit/cdf23a389b46f7500657e525d87c177e8a47121c))
+* **Iron Furnaces:** 更新至 v4.1.6 ([#676](https://github.com/xMikux/ModsTranslationPack/issues/676)) ([5e2be27](https://github.com/xMikux/ModsTranslationPack/commit/5e2be27a6ef19b365151e6ad75a4294911332fd2))
+* **Miner's Delight:** 更新至 v1.2.3 ([#682](https://github.com/xMikux/ModsTranslationPack/issues/682)) ([85051d3](https://github.com/xMikux/ModsTranslationPack/commit/85051d367762e2d35fd33afc3f4b48e824c9ba03))
+* **Re:Deco:** 更新至 v1.10.0 ([#681](https://github.com/xMikux/ModsTranslationPack/issues/681)) ([b20a819](https://github.com/xMikux/ModsTranslationPack/commit/b20a819290202b411ce1c332a65db7035a6abe25))
+* **Reliquary Reincarnations:** 更新至 v2.0.41 ([#661](https://github.com/xMikux/ModsTranslationPack/issues/661)) ([8b47dae](https://github.com/xMikux/ModsTranslationPack/commit/8b47daea54dc92d64702d987fb71b6134e08ba5a))
+* **Sophisticated Series:** 更新精巧系列全家桶 ([#662](https://github.com/xMikux/ModsTranslationPack/issues/662)) ([7aff7d9](https://github.com/xMikux/ModsTranslationPack/commit/7aff7d99c2dd69f04d7a1ebeed3b996fe5b62b0c))
+
+
+### 🐛 修正模組翻譯錯誤
+
+* **Ex Deorum:** 修正 Infested Leaves 的譯名 ([#665](https://github.com/xMikux/ModsTranslationPack/issues/665)) ([2570c30](https://github.com/xMikux/ModsTranslationPack/commit/2570c3040a075b7592206c5b3f66bc99e1b92d21))
+
 ## [1.7.11](https://github.com/xMikux/ModsTranslationPack/compare/v1.7.10...v1.7.11) (2024-05-25)
 
 
